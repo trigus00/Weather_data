@@ -1,7 +1,6 @@
 
 # Weather_Analysis
 
-=======
 
 # Observation: 
 
@@ -10,9 +9,9 @@
 
 - Apparently , there is an outlier when it came to humidity vs lattitude. I thought humidity could only reach to 100 %. 
 
--Cloudiness and humidity do not show a strong correlation to latitude. The visualizations below show a great variety of values at similar latitudes.
+- Cloudiness and humidity do not show a strong correlation to latitude. The visualizations below show a great variety of values at similar latitudes.
 
--Wind speed appears to slightly increase as we move away from the equator. We would need to go beyond the ranged examined to make a definitive conclusion.
+- Wind speed appears to slightly increase as we move away from the equator. We would need to go beyond the ranged examined to make a definitive conclusion.
 
 # WeatherPy
 ----
