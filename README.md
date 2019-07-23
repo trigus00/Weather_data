@@ -1,13 +1,18 @@
-<<<<<<< HEAD
+
 # Weather_Analysis
 
 =======
 
-# Analysis: 
-
-Looking at the anaylsis 
+# Observation: 
 
 
+-Looking at the anaylsis, we can tell that thier is a correlation. Their is a correlation with temperature and when the lattitude degrees are in the -20 to 50 degrees, temperature rise then outside of those the temperature falls down. 
+
+- Apparently , there is an outlier when it came to humidity vs lattitude. I thought humidity could only reach to 100 %. 
+
+-Cloudiness and humidity do not show a strong correlation to latitude. The visualizations below show a great variety of values at similar latitudes.
+
+-Wind speed appears to slightly increase as we move away from the equator. We would need to go beyond the ranged examined to make a definitive conclusion.
 
 # WeatherPy
 ----
@@ -16,7 +21,7 @@ Looking at the anaylsis
 * Instructions have been included for each segment. You do not have to follow them exactly, but they are included to help you think through the steps.
 
 
-```python
+```py
 # Dependencies and Setup
 import matplotlib.pyplot as plt
 import pandas as pd
