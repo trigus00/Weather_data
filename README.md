@@ -6,7 +6,7 @@
 # Observation: 
 
 
--Looking at the anaylsis, we can tell that thier is a correlation. Their is a correlation with temperature and when the lattitude degrees are in the -20 to 50 degrees, temperature rise then outside of those the temperature falls down. 
+- Looking at the anaylsis, we can tell that thier is a correlation. Their is a correlation with temperature and when the lattitude degrees are in the -20 to 50 degrees, temperature rise then outside of those the temperature falls down. 
 
 - Apparently , there is an outlier when it came to humidity vs lattitude. I thought humidity could only reach to 100 %. 
 
